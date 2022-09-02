@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "google/across",
+    "stargazers_count": 12,
+    "open_issues_count": 4,
+    "forks_count": 6
+  },
+  {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2413,
-    "open_issues_count": 5,
-    "forks_count": 399
+    "stargazers_count": 2414,
+    "open_issues_count": 4,
+    "forks_count": 402
   },
   {
     "full_name": "github/maintainermonth",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "shikha-16/Women-in-Technology",
-    "stargazers_count": 509,
+    "stargazers_count": 511,
     "open_issues_count": 9,
     "forks_count": 130
   },
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "igorbarinov/awesome-data-engineering",
-    "stargazers_count": 4463,
+    "stargazers_count": 4465,
     "open_issues_count": 56,
     "forks_count": 906
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 2912,
+    "stargazers_count": 2921,
     "open_issues_count": 25,
-    "forks_count": 210
+    "forks_count": 214
   },
   {
     "full_name": "kofoworola/tunnelify",
@@ -67,14 +73,14 @@
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 20597,
-    "open_issues_count": 12,
-    "forks_count": 1773
+    "stargazers_count": 20692,
+    "open_issues_count": 14,
+    "forks_count": 1785
   },
   {
     "full_name": "wazuh/wazuh-qa",
     "stargazers_count": 21,
-    "open_issues_count": 224,
+    "open_issues_count": 249,
     "forks_count": 10
   },
   {
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "FranckNdame/swiftui.builds",
-    "stargazers_count": 548,
+    "stargazers_count": 549,
     "open_issues_count": 1,
     "forks_count": 69
   },
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 86727,
-    "open_issues_count": 37,
-    "forks_count": 10177
+    "stargazers_count": 86915,
+    "open_issues_count": 38,
+    "forks_count": 10182
   },
   {
     "full_name": "zenika-open-source/awesome-remote-work",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "rubymorillo/pocket-tech-writing-list",
-    "stargazers_count": 659,
+    "stargazers_count": 660,
     "open_issues_count": 0,
     "forks_count": 45
-  },
-  {
-    "full_name": "rubymorillo/pocket-writer-job-boards-list",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
