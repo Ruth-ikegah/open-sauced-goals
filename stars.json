@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "wagtail/wagtail",
+    "stargazers_count": 13060,
+    "open_issues_count": 978,
+    "forks_count": 2795
+  },
+  {
     "full_name": "google/across",
     "stargazers_count": 12,
     "open_issues_count": 4,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2518,
+    "stargazers_count": 2533,
     "open_issues_count": 4,
-    "forks_count": 418
+    "forks_count": 422
   },
   {
     "full_name": "github/maintainermonth",
@@ -21,19 +27,19 @@
     "full_name": "todogroup/ospo101",
     "stargazers_count": 110,
     "open_issues_count": 9,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "AllInOpenSource/All-In",
-    "stargazers_count": 51,
-    "open_issues_count": 5,
+    "stargazers_count": 53,
+    "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "shikha-16/Women-in-Technology",
-    "stargazers_count": 531,
+    "stargazers_count": 532,
     "open_issues_count": 7,
-    "forks_count": 130
+    "forks_count": 131
   },
   {
     "full_name": "LuluNwenyi/Pomodoro-Timer",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "igorbarinov/awesome-data-engineering",
-    "stargazers_count": 4516,
-    "open_issues_count": 57,
+    "stargazers_count": 4522,
+    "open_issues_count": 56,
     "forks_count": 917
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 2972,
-    "open_issues_count": 28,
-    "forks_count": 216
+    "stargazers_count": 2983,
+    "open_issues_count": 26,
+    "forks_count": 217
   },
   {
     "full_name": "kofoworola/tunnelify",
@@ -73,14 +79,14 @@
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 21443,
+    "stargazers_count": 21505,
     "open_issues_count": 19,
-    "forks_count": 1830
+    "forks_count": 1838
   },
   {
     "full_name": "wazuh/wazuh-qa",
     "stargazers_count": 22,
-    "open_issues_count": 327,
+    "open_issues_count": 354,
     "forks_count": 12
   },
   {
@@ -122,7 +128,7 @@
   {
     "full_name": "layer5io/getnighthawk",
     "stargazers_count": 78,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 74
   },
   {
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "devshelpdevs/DevsHelpDevs",
-    "stargazers_count": 125,
+    "stargazers_count": 124,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 89065,
-    "open_issues_count": 65,
-    "forks_count": 10308
+    "stargazers_count": 89310,
+    "open_issues_count": 74,
+    "forks_count": 10330
   },
   {
     "full_name": "zenika-open-source/awesome-remote-work",
     "stargazers_count": 336,
-    "open_issues_count": 5,
-    "forks_count": 53
+    "open_issues_count": 7,
+    "forks_count": 54
   },
   {
     "full_name": "bdougie/awesome-black-developers",
@@ -172,11 +178,5 @@
     "stargazers_count": 70,
     "open_issues_count": 13,
     "forks_count": 53
-  },
-  {
-    "full_name": "rubymorillo/pocket-tech-writing-list",
-    "stargazers_count": 663,
-    "open_issues_count": 0,
-    "forks_count": 46
   }
 ]
