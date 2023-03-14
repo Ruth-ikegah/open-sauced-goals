@@ -7,9 +7,9 @@
   },
   {
     "full_name": "wagtail/wagtail",
-    "stargazers_count": 14336,
-    "open_issues_count": 1016,
-    "forks_count": 3095
+    "stargazers_count": 14364,
+    "open_issues_count": 1007,
+    "forks_count": 3100
   },
   {
     "full_name": "google/across",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 2979,
-    "open_issues_count": 4,
-    "forks_count": 513
+    "stargazers_count": 2993,
+    "open_issues_count": 5,
+    "forks_count": 517
   },
   {
     "full_name": "github/maintainermonth",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "igorbarinov/awesome-data-engineering",
-    "stargazers_count": 4860,
+    "stargazers_count": 4885,
     "open_issues_count": 51,
-    "forks_count": 953
+    "forks_count": 958
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3310,
+    "stargazers_count": 3319,
     "open_issues_count": 32,
     "forks_count": 253
   },
@@ -85,25 +85,19 @@
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 23731,
+    "stargazers_count": 23752,
     "open_issues_count": 31,
-    "forks_count": 2048
+    "forks_count": 2050
   },
   {
     "full_name": "wazuh/wazuh-qa",
-    "stargazers_count": 25,
-    "open_issues_count": 466,
-    "forks_count": 14
-  },
-  {
-    "full_name": "jim-nnamdi/Bear-Go",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": -1
+    "stargazers_count": 26,
+    "open_issues_count": 465,
+    "forks_count": 16
   },
   {
     "full_name": "FranckNdame/swiftui.builds",
-    "stargazers_count": 566,
+    "stargazers_count": 567,
     "open_issues_count": 1,
     "forks_count": 71
   },
@@ -127,7 +121,7 @@
   },
   {
     "full_name": "AnandChowdhary/bookshelf-action",
-    "stargazers_count": 55,
+    "stargazers_count": 54,
     "open_issues_count": 8,
     "forks_count": 8
   },
@@ -163,20 +157,26 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 97724,
-    "open_issues_count": 164,
-    "forks_count": 10774
+    "stargazers_count": 97943,
+    "open_issues_count": 168,
+    "forks_count": 10776
   },
   {
     "full_name": "zenika-open-source/awesome-remote-work",
-    "stargazers_count": 377,
+    "stargazers_count": 376,
     "open_issues_count": 6,
     "forks_count": 57
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 1,
     "forks_count": 21
+  },
+  {
+    "full_name": "chaoss/wg-dei",
+    "stargazers_count": 74,
+    "open_issues_count": 13,
+    "forks_count": 54
   }
 ]
