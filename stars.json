@@ -1,37 +1,37 @@
 [
   {
     "full_name": "WorldHealthOrganization/open-source-communication-channel",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 9,
     "forks_count": 4
   },
   {
     "full_name": "wagtail/wagtail",
-    "stargazers_count": 14442,
-    "open_issues_count": 995,
-    "forks_count": 3124
+    "stargazers_count": 14463,
+    "open_issues_count": 998,
+    "forks_count": 3134
   },
   {
     "full_name": "google/across",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 3049,
+    "stargazers_count": 3065,
     "open_issues_count": 7,
-    "forks_count": 527
+    "forks_count": 532
   },
   {
     "full_name": "github/maintainermonth",
-    "stargazers_count": 161,
+    "stargazers_count": 163,
     "open_issues_count": 4,
     "forks_count": 34
   },
   {
     "full_name": "todogroup/ospo-career-path",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 13,
     "forks_count": 48
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "shikha-16/Women-in-Technology",
-    "stargazers_count": 578,
+    "stargazers_count": 581,
     "open_issues_count": 12,
     "forks_count": 141
   },
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "igorbarinov/awesome-data-engineering",
-    "stargazers_count": 4936,
+    "stargazers_count": 4946,
     "open_issues_count": 51,
-    "forks_count": 969
+    "forks_count": 970
   },
   {
     "full_name": "octokatherine/readme.so",
-    "stargazers_count": 3332,
+    "stargazers_count": 3340,
     "open_issues_count": 34,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "kofoworola/tunnelify",
     "stargazers_count": 32,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "curiouslearning/CuriousReaderRCC",
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 23859,
+    "stargazers_count": 23882,
     "open_issues_count": 31,
-    "forks_count": 2060
+    "forks_count": 2063
   },
   {
     "full_name": "wazuh/wazuh-qa",
     "stargazers_count": 25,
-    "open_issues_count": 453,
+    "open_issues_count": 450,
     "forks_count": 16
   },
   {
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 98806,
-    "open_issues_count": 143,
-    "forks_count": 10817
+    "stargazers_count": 98984,
+    "open_issues_count": 141,
+    "forks_count": 10827
   },
   {
     "full_name": "zenika-open-source/awesome-remote-work",
@@ -176,7 +176,7 @@
   {
     "full_name": "chaoss/wg-dei",
     "stargazers_count": 74,
-    "open_issues_count": 13,
+    "open_issues_count": 11,
     "forks_count": 54
   }
 ]
